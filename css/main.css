@@ -10,6 +10,9 @@ body {
     font-family: 'Source Code Pro', monospace;
 }
 
+.p-mono {
+    font-family: 'Source Code Pro', monospace;
+}
 
 nav ul, footer ul {
     padding: 0px;
@@ -18,6 +21,7 @@ nav ul, footer ul {
 
 nav ul {
     font-weight: bold;
+    font-size: 1.1em;
 }
 
 
