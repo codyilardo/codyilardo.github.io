@@ -3,8 +3,8 @@
 
 
 body {
-    background-color: #010205;
-    color: #fcfdff;
+    background-color: #d5d5d5;
+    color: #000000;
     margin: 60px auto;
     width: 70%;
     font-family: 'Source Code Pro', monospace;
@@ -29,30 +29,32 @@ nav ul li, footer ul li {
 
 a {
   text-decoration: none;
-  color: #b7fbff;
+  color: #000000;
 }
 
 a:hover {
   text-decoration: underline;
+  color: #fcfdff;
 }
 
 h1 {
-    font-size: 3.3em;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 3.5em;
 }
 
 p {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #fcfdff;
+    color: #000000;
 }
 footer {
-    border-top: 1px solid #fcfdff;
+    border-top: 1px solid #000000;
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
