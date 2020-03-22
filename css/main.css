@@ -2,8 +2,8 @@
 @import url(//fonts.googleapis.com/css?family=Source+Code+Pro&display=swap);
 
 body {
-    background-color: #040a14;
-    color:#f9fdff;
+    background-color: #010205;
+    color: #fcfdff;
     margin: 60px auto;
     width: 70%;
     font-family: 'Source Sans Pro', 'Source Sans', 'Helvetica', sans-serif;
@@ -20,7 +20,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #eaf5ff;
+    color: #dcb43e;
 }
 a:hover {
     text-decoration: underline;
@@ -31,10 +31,10 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: #fcfdff;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 1px solid #fcfdff;
     font-size: .8em;
 }
 
