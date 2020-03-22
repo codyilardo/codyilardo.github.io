@@ -15,6 +15,10 @@ body {
     font-size: .8em;
 }
 
+.white {
+    color: #fcfdff;
+}
+
 nav ul, footer ul {
     padding: 0px;
     list-style: none;
