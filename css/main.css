@@ -1,27 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap');
+
 body {
+    background-color: #040a14;
+    color:#f9fdff;
     margin: 60px auto;
     width: 70%;
+    font-family: 'Source Sans Pro', 'Source Sans', 'Helvetica', sans-serif;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
 nav ul li, footer ul li {
+    font-family: 'Source Code Pro', 'Source Code', 'Inconsolata', monospace;
     display: inline;
     margin-right: 20px;
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #eaf5ff;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
     font-size: 1.5em;
