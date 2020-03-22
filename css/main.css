@@ -9,11 +9,18 @@ body {
     width: 70%;
     font-family: 'Source Code Pro', monospace;
 }
+
+
 nav ul, footer ul {
     padding: 0px;
     list-style: none;
+}
+
+nav ul {
     font-weight: bold;
 }
+
+
 nav ul li, footer ul li {
     font-family: 'Source Code Pro', monospace;
     display: inline;
@@ -29,10 +36,10 @@ a:hover {
   text-decoration: underline;
 }
 
-}
 h1 {
-    font-size: 3em;
+    font-size: 3.3em;
 }
+
 p {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 1.5em;
