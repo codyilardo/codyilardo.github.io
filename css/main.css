@@ -1,9 +1,6 @@
 @import url(//fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap);
 @import url(//fonts.googleapis.com/css?family=Source+Code+Pro&display=swap);
 
-:root {
-  --mainColor: #f0f0c9;
-}
 
 body {
     background-color: #010205;
@@ -25,7 +22,7 @@ nav ul li, footer ul li {
 
 a {
   text-decoration: none;
-  color: (--mainColor);
+  color: #b7fbff;
 }
 
 a:hover {
