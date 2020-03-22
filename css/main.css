@@ -12,6 +12,7 @@ body {
 
 .p-mono {
     font-family: 'Source Code Pro', monospace;
+    font-size: .8em;
 }
 
 nav ul, footer ul {
