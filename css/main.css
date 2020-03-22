@@ -1,12 +1,16 @@
 @import url(//fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap);
 @import url(//fonts.googleapis.com/css?family=Source+Code+Pro&display=swap);
 
+:root {
+  --mainColor: #f0f0c9;
+}
+
 body {
     background-color: #010205;
     color: #fcfdff;
     margin: 60px auto;
     width: 70%;
-    font-family: 'Source Sans Pro', 'Source Sans', 'Helvetica', sans-serif;
+    font-family: 'Source Code Pro', monospace;
 }
 nav ul, footer ul {
     padding: 0px;
@@ -14,21 +18,36 @@ nav ul, footer ul {
     font-weight: bold;
 }
 nav ul li, footer ul li {
-    font-family: 'Source Code Pro', 'Source Code', 'Inconsolata', monospace;
+    font-family: 'Source Code Pro', monospace;
     display: inline;
     margin-right: 20px;
 }
+
 a {
-    text-decoration: none;
-    color: #dcb43e;
+  background:
+     linear-gradient(
+       to bottom, var(--mainColor) 0%,
+       var(--mainColor) 100%
+     );
+    background-position: 0 100%;
+    background-repeat: repeat-x;
+    background-size: 4px 4px;
+  color: #fcfdff;
+  text-decoration: none;
+  transition: background-size .2s;
 }
+
 a:hover {
-    text-decoration: underline;
+  background-size: 4px 50px;
+  text-decoration: none;
+}
+
 }
 h1 {
     font-size: 3em;
 }
 p {
+    font-family: 'Source Sans Pro', sans-serif;
     font-size: 1.5em;
     line-height: 1.4em;
     color: #fcfdff;
