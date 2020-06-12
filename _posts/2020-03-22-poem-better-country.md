@@ -4,7 +4,7 @@ title: "Poem: A Better Country, that is, a Heavenly One"
 date: 2020-03-22
 ---
 
-###A Better Country, that is, a Heavenly One
+### A Better Country, that is, a Heavenly One
 
 The knowledge of two cities and of two men  
 I, lately receiving, am thus and so bound  
