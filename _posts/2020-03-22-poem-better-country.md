@@ -120,4 +120,4 @@ This poem that I wrote traces the Biblical story of redemption, focusing on the 
 - John Bunyan (utilizing the analogy of a pilgrim and archaic language as seen in Pilgrim’s Progress)
 - Dante (the terza rima form that I selected, using an interweaving aba, bcb, cdc rhyme with hendecasyllable lines, is used in Dante’s Inferno).   
 
-There are too many scripture references to cite here, but the title is from the eleventh chapter of the New Testament letter to the Hebrews.
+There are too many scripture references to cite here. Title is from the eleventh chapter of the New Testament letter to the Hebrews.
