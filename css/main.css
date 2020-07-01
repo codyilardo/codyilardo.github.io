@@ -72,3 +72,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.post {
+    font-size: small;
+}
