@@ -13,6 +13,10 @@ body {
     font-family: 'Source Code Pro', monospace;
 }
 
+.container {
+    width: 80%;
+}
+
 .p-mono {
     font-family: 'Source Code Pro', monospace;
     font-size: 1.2em;
