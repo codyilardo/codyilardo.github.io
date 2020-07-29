@@ -18,6 +18,11 @@ body {
     font-size: 1.2em;
 }
 
+.p-mono-gpg {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 0.8em;
+}
+
 .white {
     color: #f2e5d7;
 }
