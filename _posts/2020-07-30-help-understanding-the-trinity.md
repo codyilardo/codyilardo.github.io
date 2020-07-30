@@ -4,8 +4,6 @@ title: "Help Understanding the Trinity"
 date: 2020-07-30
 ---
 
-### Help Understanding the Trinity
-
 A friend of mine was struggling with lots of questions about the Trinity, so I wrote up some resources for a quick look at answering some of their questions to hopefully provide some insight. I figured I would post it here as well.   
 
 Let’s start with scripture. There are lots of philosophical arguments that we can get into, and those are cool and helpful if that’s where you’re hung up, but for me the most compelling are just showing from scripture the state of affairs. This one is a super good intro into the Old Testament framework for the nature of God and how he interacts with humanity.    
