@@ -20,7 +20,11 @@ body {
 
 .p-mono-gpg {
     font-family: 'Source Code Pro', monospace;
-    font-size: 0.8em;
+    font-size: 0.72em;
+}
+
+.gpg-container {
+    width: 50%;
 }
 
 .white {
