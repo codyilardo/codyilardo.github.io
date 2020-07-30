@@ -21,6 +21,7 @@ body {
 .p-mono-gpg {
     font-family: 'Source Code Pro', monospace;
     font-size: 0.72em;
+    width: 64ch;
 }
 
 .gpg-container {
