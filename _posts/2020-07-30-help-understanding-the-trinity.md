@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Help Understanding the Trinity"
-date: 2020-06-22
+date: 2020-07-30
 ---
 
 ### Help Understanding the Trinity
