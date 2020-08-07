@@ -4,7 +4,9 @@ title: "Recommended Reading"
 date: 2020-08-07
 ---
 
-> This list is updated regularly. I have either read these works, am about to read them, or know enough of thier impact to give a recommendation. Feel free to reach out to me to discuss any of these works. Also, I am interested in trades or purchases if you have any related works in the below-listed fields. 
+## About
+> This list is updated regularly. I have either read these works, am about to read them, or know enough of thier impact to give a recommendation. Feel free to reach out to me to discuss any of these works. Also, I am interested in trades or purchases if you have any related works in the below-listed fields.    
+
 
 ## Bibles
 - English Standard Version Thinline Bible
@@ -34,7 +36,8 @@ date: 2020-08-07
 - Josephus-The Complete Works of Flavius Josephus 
 
 ## General Christianity
-> Includes Pastoral/Ministry/Spiritual Growth
+> Includes Pastoral/Ministry/Spiritual Growth    
+
 - Deliverance from Evil Spirits: A Practical Manual, Francis S. MacNutt
 - The Bondage Breaker, Niel T. Anderson
 - Steps to Freedom in Christ, Niel T. Anderson
