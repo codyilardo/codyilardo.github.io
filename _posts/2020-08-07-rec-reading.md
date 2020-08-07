@@ -41,6 +41,7 @@ Includes Pastoral/Ministry/Spiritual Growth
 - Deliverance from Evil Spirits: A Practical Manual, Francis S. MacNutt
 - The Bondage Breaker, Niel T. Anderson
 - Steps to Freedom in Christ, Niel T. Anderson
+- Missionary Methods: St Paul's or Ours?, Roland Allen
 - The Spontaneous Expansion of the Church: And the Causes which Hinder it, Roland Allen
 - Temptation: What it is and How We Overcome, Daniel Robison
 - The Baptism with the Holy Spirit: A Modern Edition, Daniel Robison
@@ -48,12 +49,20 @@ Includes Pastoral/Ministry/Spiritual Growth
 - Holiness, J.C. Ryle
 - A Call to Prayer, J.C. Ryle
 - The Second Coming of Christ, Charles Spurgeon
+- Why Revival Tarries, Leonard Ravehill
+- The Best of A. W. Tozer, A.W. Tozer, edit. Warren Wiersbe
+- Tortured for Christ, Richard Wurmbrand
+- Foxe's Book of Martyrs, John Foxe
+- The Pilgrim's Progress, John Bunyan
+- A Serious Call to a Devout and Holy Life, William Law
 
 ## Worship/Devotional 
-- The Book of Common Prayer, The Hymnal
-- Lutheran Hymnal 
-- Daily Light
+- The Book of Common Prayer, The Hymnal, 1982
+- Lutheran Hymnal, Concordia Publishing House, 1941
+- Daily Light on the Daily Path, Samuel Bagster
 - My Upmost for His Highest, Oswald Chambers
+- With Christ in The School of Prayer, Andrew Murray
+
 
 ## Poetry
 - The Oxford Book of American Verse, F.O. Matthiessen
