@@ -5,29 +5,37 @@ date: 2020-08-07
 ---
 
 ## About
-This list is updated regularly. I have either read these works or am about to read them. Feel free to reach out to me to discuss any of these. Also, I am interested in trades or purchases if you have any related works in the below-listed fields.    
+
+I have either read these works or am about to read them. Feel free to reach out to me to discuss any of these. Also, I am interested in trades or purchases if you have any related works in the below-listed fields.    
 
 
 ## Bibles
+
 - English Standard Version Thinline Bible
 - English Standard Version Study Bible, Crossway (great notes, references)
-- Lockman-New American Standard Bible 
+- Lockman's New American Standard Bible 
 - 1984 New International Version (harder to find) 
 
 ## Original Language Tools
+
 - The Greek New Testament, Produced at Tyndale House, Cambridge 
 - Nestle-Aland Novum Testamentum Graece
 - The Concise Greek-English Lexicon of the New Testament, Frederick William Danker
 - A Primer of Biblical Greek, Clayton N. Croy
 - The Englishman's Greek New Testament: Giving the Greek Text of Stephens 1550 (Textus Receptus reference)
 - A New English Translation of the Septuagint and the Other Greek Translations Traditionally Included Under that Title (abrev. NETS)
+- The Hebrew-Greek Key Word Study Bible: ESV Edition
 
 ## Biblical Reference Works
+
 - The IVP Bible Background Commentary: Old Testament
 - The IVP Bible Background Commentary: New Testament
+- The Complete Dead Sea Scrolls in English: Seventh Edition, Geza Vermes
 
 ## Church History
+
 - The Ante-Nicene Fathers, Phillip Schaff (10 Volume Set, expensive. You can find the entire thing online free, or the individual authours in print for cheaper)
+- A Dictionary of Early Christian Beliefs: A Reference Guide, David W. Bercot
 - Origen: Contra Celsum, Henry Chadwick
 - Eusebius' Ecclesiastical History: The Ten Books of Christian Church History, Complete and Unabridged
 - One God, One Lord: Early Christian Devotion and Ancient Jewish Monotheism
@@ -36,27 +44,42 @@ This list is updated regularly. I have either read these works or am about to re
 - Josephus-The Complete Works of Flavius Josephus 
 
 ## General Christianity
-Includes Pastoral/Ministry/Spiritual Growth    
 
-- Deliverance from Evil Spirits: A Practical Manual, Francis S. MacNutt
 - The Bondage Breaker, Niel T. Anderson
 - Steps to Freedom in Christ, Niel T. Anderson
-- Missionary Methods: St Paul's or Ours?, Roland Allen
-- The Spontaneous Expansion of the Church: And the Causes which Hinder it, Roland Allen
+- Why Revival Tarries, Leonard Ravehill
+- The Pursuit of God, A.W. Tozer
+- The Best of A.W. Tozer, A.W. Tozer, edit. Warren Wiersbe
+- Tortured for Christ, Richard Wurmbrand
+- Hearts of Fire, Voice of the Martyrs
+- Foxe's Book of Martyrs, John Foxe
+- The Pilgrim's Progress, John Bunyan
 - Temptation: What it is and How We Overcome, Daniel Robison
+- The Best of R.A. Torrey, R.A. Torrey
 - The Baptism with the Holy Spirit: A Modern Edition, Daniel Robison
+- The Screwtape Letters, C.S. Lewis
+- A Grief Observed, C.S. Lewis
+- The Abolition of Man, C.S. Lewis
+- The Communion of the Holy Spirit, Watchman Nee
 - The Normal Christian Life, Watchman Nee
 - Holiness, J.C. Ryle
 - A Call to Prayer, J.C. Ryle
 - The Second Coming of Christ, Charles Spurgeon
-- Why Revival Tarries, Leonard Ravehill
-- The Best of A. W. Tozer, A.W. Tozer, edit. Warren Wiersbe
-- Tortured for Christ, Richard Wurmbrand
-- Foxe's Book of Martyrs, John Foxe
-- The Pilgrim's Progress, John Bunyan
+- When Christ Returns, Charles Spurgeon
 - A Serious Call to a Devout and Holy Life, William Law
 
+### Ministry & Apologetics
+
+- Deliverance from Evil Spirits: A Practical Manual, Francis S. MacNutt
+- Missionary Methods: St Paul's or Ours?, Roland Allen
+- The Spontaneous Expansion of the Church: And the Causes which Hinder it, Roland Allen
+- A Treasury of Sermon Illustrations, Charles L. Wallis
+- Treasury of the Christian World: An Anthology of Illustrations, A. Gordon Nasby
+- The One 2 One Booklet, Discipleship Tool
+- God's Not Dead, Dr. Rice Broocks
+
 ## Worship/Devotional 
+
 - The Book of Common Prayer, The Hymnal, 1982
 - Lutheran Hymnal, Concordia Publishing House, 1941
 - Daily Light on the Daily Path, Samuel Bagster
@@ -65,6 +88,7 @@ Includes Pastoral/Ministry/Spiritual Growth
 
 
 ## Poetry
+
 - The Oxford Book of American Verse, F.O. Matthiessen
 - Zong! Wesleyan Poetry Series, M. NourbeSe Phillip
 - The Earliest English Poems, Michael Alexander
@@ -73,7 +97,11 @@ Includes Pastoral/Ministry/Spiritual Growth
 
 ## General Literature & Fiction
 
-
-
-
-
+- The History, Herodotus 
+- The Brothers Karamzov, Fyodor Dostoevsky
+- Heart of Darkness, Joseph Conrad
+- Out of the Silent Planet, C.S. Lewis
+- Perelandra, C.S. Lewis
+- The Power and the Glory, Graham Greene
+- Twenty Thousand Leagues Under the Sea, Jules Verne
+- Farenheit 451, Ray Bradbury
