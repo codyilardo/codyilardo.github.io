@@ -5,7 +5,7 @@ date: 2020-08-07
 ---
 
 ## About
-This list is updated regularly. I have either read these works, am about to read them, or know enough of thier impact to give a recommendation. Feel free to reach out to me to discuss any of these works. Also, I am interested in trades or purchases if you have any related works in the below-listed fields.    
+This list is updated regularly. I have either read these works or am about to read them. Feel free to reach out to me to discuss any of these. Also, I am interested in trades or purchases if you have any related works in the below-listed fields.    
 
 
 ## Bibles
@@ -44,13 +44,27 @@ Includes Pastoral/Ministry/Spiritual Growth
 - The Spontaneous Expansion of the Church: And the Causes which Hinder it, Roland Allen
 - Temptation: What it is and How We Overcome, Daniel Robison
 - The Baptism with the Holy Spirit: A Modern Edition, Daniel Robison
+- The Normal Christian Life, Watchman Nee
+- Holiness, J.C. Ryle
+- A Call to Prayer, J.C. Ryle
+- The Second Coming of Christ, Charles Spurgeon
 
 ## Worship/Devotional 
 - The Book of Common Prayer, The Hymnal
 - Lutheran Hymnal 
 - Daily Light
-- My Upmost for His Highest
+- My Upmost for His Highest, Oswald Chambers
 
 ## Poetry
+- The Oxford Book of American Verse, F.O. Matthiessen
+- Zong! Wesleyan Poetry Series, M. NourbeSe Phillip
+- The Earliest English Poems, Michael Alexander
+- Harvard Classics #49: Epics and Saga, Charles W. Eliot
+- Selected Poems of Alfred Lord Tennyson
 
-## General Lit. & Fiction
+## General Literature & Fiction
+
+
+
+
+
