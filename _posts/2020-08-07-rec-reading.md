@@ -99,9 +99,5 @@ I have either read these works or am about to read them. Feel free to reach out 
 
 - The History, Herodotus 
 - The Brothers Karamzov, Fyodor Dostoevsky
-- Heart of Darkness, Joseph Conrad
 - Out of the Silent Planet, C.S. Lewis
 - Perelandra, C.S. Lewis
-- The Power and the Glory, Graham Greene
-- Twenty Thousand Leagues Under the Sea, Jules Verne
-- Farenheit 451, Ray Bradbury
