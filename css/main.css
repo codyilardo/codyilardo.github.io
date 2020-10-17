@@ -70,7 +70,7 @@ a {
      );
     background-position: 0 100%;
     background-repeat: repeat-x;
-    background-size: 4px 4px;
+    background-size: 2px 2px;
   color: var(--text);
   text-decoration: none;
   transition: background-size .2s;
