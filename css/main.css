@@ -1,20 +1,32 @@
 @import url(//fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap);
 @import url(//fonts.googleapis.com/css?family=Source+Code+Pro&display=swap);
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
 
-/* new bg 2E4057 */
-/* newaccent F2E5D7 */
-/* white F6F8FF */
+/* new bg EEF1EF */
+/* bold_accent B07156 */
+/* text 262322 */
+
+:root {
+  --bg: #eef1ef;
+  --accent: #B07156;
+  --text: #262322;
+  --font: 'EB Garamond';
+}
 
 body {
-    background-color: #151515;
-    color: #f6f8ff;
+  background-color: var(--bg);
+}
+
+body {
+    background-color: var(--bg);
+    color: var(--text);
     margin: 60px auto;
     width: 70%;
-    font-family: 'Source Code Pro', monospace;
+    font-family: var(--font);
 }
 
 .p-mono {
-    font-family: 'Source Code Pro', monospace;
+    font-family: var(--font);
     font-size: 1.2em;
 }
 
@@ -25,11 +37,7 @@ body {
 }
 
 .gpg-container {
-
-}
-
-.white {
-    color: #f2e5d7;
+	font-family: 'Source Code Pro', monospace;
 }
 
 nav ul, footer ul {
@@ -44,32 +52,46 @@ nav ul {
 
 
 nav ul li, footer ul li {
-    font-family: 'Source Code Pro', monospace;
+    font-family: var(--font);
     display: inline;
     margin-right: 20px;
 }
 
 a {
   text-decoration: none;
-  color: #f6f8ff;
+  color: var(--text);
+}
+
+a {
+  background:
+     linear-gradient(
+       to bottom, var(--accent) 0%,
+       var(--accent) 100%
+     );
+    background-position: 0 100%;
+    background-repeat: repeat-x;
+    background-size: 4px 4px;
+  color: var(--text);
+  text-decoration: none;
+  transition: background-size .2s;
 }
 
 a:hover {
-  text-decoration: underline;
-  color: #F2E5D7;
+  background-size: 4px 50px;
+  text-decoration: none;
 }
 
 h1 {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: var(--font);
 }
 
 p {
-    font-family: 'Source Sans Pro', sans-serif;
+    font-family: var(--font);
     font-size: 1em;
-    color: #f6f8ff;
+    color: var(--text);
 }
 footer {
-    border-top: 1px solid #f6f8ff;
+    border-top: 1px solid var(--text);
     font-size: 1.2em;
 }
 
