@@ -5,7 +5,7 @@
 /* newaccent F2E5D7 */
 /* white F6F8FF */
 
-/* body {
+body {
     background-color: #151515;
     color: #f6f8ff;
     margin: 60px auto;
@@ -61,7 +61,6 @@ a:hover {
 
 h1 {
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 3.2em;
 }
 
 p {
@@ -85,4 +84,4 @@ ul.posts li {
 
 .post {
     font-size: .9em;
-} */
+}
