@@ -27,37 +27,37 @@ A dangerous tendency among God’s people is to ease off the hard lines that God
 
 Paul said to the Roman church, “Note then the kindness and the severity of God”(Romans 11:22). “Noting” it is one way to put it. We should note his severity the way a man notes a lion's roar behind him. We should note his goodness the way an orphan notes the day of his upcoming adoption. God’s mercies, which are “new every morning”, ought to be wondered at more than his judgements, because they are not deserved. God did not love us because we are lovely. He loves us because “God is love”(1 John 4:16). Overwhelming love is in the character of God. The woman, who “was a sinner”, washed Jesus' feet with her tears and poured expensive ointment on them. The woman, overwhelmed by God’s mercy, expressed true love for our Lord. And what did the Saviour say to her accusers? “He who is forgiven little loves little”(Luke 7:47). She realized she had been forgiven much, while the Pharisees did not. God’s faithfulness and kindness is what truly overwhelms:
 
-	"Great is Thy faithfulness, " O God my Father,
-	There is no shadow of turning with Thee;
-	Thou changest not, Thy compassions, they fail not
-	As Thou hast been Thou forever wilt be.
+> "Great is Thy faithfulness, " O God my Father,
+> There is no shadow of turning with Thee;
+> Thou changest not, Thy compassions, they fail not
+> As Thou hast been Thou forever wilt be.
 
 The love of Christ truly, “surpasses knowledge”(Ephesians 3:19). After a long discourse on God’s love shown us in Jesus Christ through the Spirit, Paul tells us, “So then, brothers, we are debtors”(Romans 8:12). We are debtors to God’s great grace. We should be overwhelmed by the love of God shown to us. That is a major theme of the Bible: God’s redemption and love for fallen rebels and slaves which results in our reciprocation of that love. The person of Jesus, truly seen, is overwhelming. His love shown to his own is seen in his promise of eternal life:
 
-    They shall hunger no more, neither thirst anymore;
-        the sun shall not strike them,
-        nor any scorching heat.
-    For the Lamb in the midst of the throne will be their shepherd,
-        and he will guide them to springs of living water,
-    and God will wipe away every tear from their eyes”(Revelation 7:16–17).
+> They shall hunger no more, neither thirst anymore;
+>     the sun shall not strike them,
+>     nor any scorching heat.
+> For the Lamb in the midst of the throne will be their shepherd,
+>     and he will guide them to springs of living water,
+> and God will wipe away every tear from their eyes”(Revelation 7:16–17).
 
 This is how the righteous men of old endured trial in this life: by faith “seeing him who is invisible”(Hebrews 11:27). John says, “See what kind of love the Father has given to us, that we should be called children of God...”(1 John 3:1) Do we see it? Barely. The depths are unsearchable. But he continues the sentence, “...and so we are”. The amazing thing is while we cannot fathom God’s great love, because he has truly called us his children, we are. In Christ, we are God’s beloved children, because He said so.
 
 To conclude this section, here is an excerpt from The Letter to Diognetus, c. 100 AD. We should be overwhelmed:
 
-	“...how the one love of God, through exceeding regard for men,
-	did not regard us with hatred, nor thrust us away, nor remember our
-	iniquity against us, but showed great long-suffering,
-	and bore with us, He Himself took on Him the burden of our iniquities,
-	He gave His own Son as a ransom for us, the holy One for transgressors,
-	the blameless One for the wicked, the righteous One for the unrighteous,
-	the incorruptible One for the corruptible, the immortal One for those
-	who are mortal. For what other thing was capable of covering our sins
-	than His righteousness? By what other one was it possible that we,
-	the wicked and ungodly, could be justified, than by the only Son of God?
-	O sweet exchange! O unsearchable operation! O benefits surpassing all
-	expectation! That the wickedness of many should be hid in a single righteous
-	One, and that the righteousness of One should justify many transgressors!”
+> “...how the one love of God, through exceeding regard for men,
+> did not regard us with hatred, nor thrust us away, nor remember our
+> iniquity against us, but showed great long-suffering,
+> and bore with us, He Himself took on Him the burden of our iniquities,
+> He gave His own Son as a ransom for us, the holy One for transgressors,
+> the blameless One for the wicked, the righteous One for the unrighteous,
+> the incorruptible One for the corruptible, the immortal One for those
+> who are mortal. For what other thing was capable of covering our sins
+> than His righteousness? By what other one was it possible that we,
+> the wicked and ungodly, could be justified, than by the only Son of God?
+> O sweet exchange! O unsearchable operation! O benefits surpassing all
+> expectation! That the wickedness of many should be hid in a single righteous
+> One, and that the righteousness of One should justify many transgressors!”
 
 One last word. God has already appointed a day. He has already fixed a time where he will judge the world with righteous judgement, through Jesus Christ. Jesus will judge the entire world, every man, woman, and child. Be overwhelmed now at his patience and love toward you. Do not wait, and be overwhelmed on that day at the weight of his eternal holy justice. God does not delight in the death of the wicked, but in overwhelming love, invites us to “turn and live”(Ezekiel 18).
 
