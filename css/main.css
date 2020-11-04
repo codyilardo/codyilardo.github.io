@@ -7,10 +7,10 @@
 /* text 262322 */
 
 :root {
-  --bg: #eef1ef;
+  --bg: #0E1428;
   --accent: #7588A9;
-  --text: #262322;
-  --font: 'EB Garamond';
+  --text: #F4F4F8;
+  --font: 'Source Code Pro';
 }
 
 body {
