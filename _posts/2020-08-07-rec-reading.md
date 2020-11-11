@@ -6,8 +6,7 @@ date: 2020-08-07
 
 ## About
 
-I have either read these works or am about to read them. Feel free to reach out to me to discuss any of these. Also, I am interested in trades or purchases if you have any related works in the below-listed fields.    
-
+I have either read these works or am about to read them. Feel free to reach out to me to discuss any of these. Also, I am interested in trades or purchases if you have any related works in the below-listed fields. 
 
 ## Bibles
 
@@ -19,7 +18,7 @@ I have either read these works or am about to read them. Feel free to reach out 
 ## Original Language Tools
 
 - The Greek New Testament, Produced at Tyndale House, Cambridge 
-- Nestle-Aland Novum Testamentum Graece
+- Nestle-Aland Novum Testamentum Graece (NA28)
 - The Concise Greek-English Lexicon of the New Testament, Frederick William Danker
 - A Primer of Biblical Greek, Clayton N. Croy
 - The Englishman's Greek New Testament: Giving the Greek Text of Stephens 1550 (Textus Receptus reference)
@@ -45,6 +44,7 @@ I have either read these works or am about to read them. Feel free to reach out 
 
 ## General Christianity
 
+- Unlocking the Bible, David Pawson
 - The Bondage Breaker, Niel T. Anderson
 - Steps to Freedom in Christ, Niel T. Anderson
 - Why Revival Tarries, Leonard Ravehill
@@ -57,9 +57,9 @@ I have either read these works or am about to read them. Feel free to reach out 
 - Temptation: What it is and How We Overcome, Daniel Robison
 - The Best of R.A. Torrey, R.A. Torrey
 - The Baptism with the Holy Spirit: A Modern Edition, Daniel Robison
-- The Screwtape Letters, C.S. Lewis
 - A Grief Observed, C.S. Lewis
 - The Abolition of Man, C.S. Lewis
+- Pensees, Blaise Pascal
 - The Communion of the Holy Spirit, Watchman Nee
 - The Normal Christian Life, Watchman Nee
 - Holiness, J.C. Ryle
@@ -81,23 +81,28 @@ I have either read these works or am about to read them. Feel free to reach out 
 ## Worship/Devotional 
 
 - The Book of Common Prayer, The Hymnal, 1982
-- Lutheran Hymnal, Concordia Publishing House, 1941
+- The Book of Common Prayer, 1662 Edition (searching)
 - Daily Light on the Daily Path, Samuel Bagster
+- The Valley of Vision, Arthur G. Bennett
 - My Upmost for His Highest, Oswald Chambers
 - With Christ in The School of Prayer, Andrew Murray
-
+- Lutheran Hymnal, Concordia Publishing House, 1941
 
 ## Poetry
 
 - The Oxford Book of American Verse, F.O. Matthiessen
-- Zong! Wesleyan Poetry Series, M. NourbeSe Phillip
 - The Earliest English Poems, Michael Alexander
 - Harvard Classics #49: Epics and Saga, Charles W. Eliot
 - Selected Poems of Alfred Lord Tennyson
+- Zong! Wesleyan Poetry Series, M. NourbeSe Phillip
 
 ## General Literature & Fiction
 
 - The History, Herodotus 
 - The Brothers Karamzov, Fyodor Dostoevsky
+- Crime and Punishment, Fyodor Dostoevsky
+- The Screwtape Letters, C.S. Lewis
 - Out of the Silent Planet, C.S. Lewis
 - Perelandra, C.S. Lewis
+- The Oxford Dictionary of Quotations, Third Edition, Oxford University Press
+- 12,000 Religious Quotation, Frank S. Mead 
