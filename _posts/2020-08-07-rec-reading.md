@@ -99,6 +99,7 @@ I have either read these works or am about to read them. Feel free to reach out 
 ## General Literature & Fiction
 
 - The History, Herodotus 
+- The Odyssey, Homer
 - The Brothers Karamzov, Fyodor Dostoevsky
 - Crime and Punishment, Fyodor Dostoevsky
 - The Screwtape Letters, C.S. Lewis
