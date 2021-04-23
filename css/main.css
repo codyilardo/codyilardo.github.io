@@ -1,5 +1,5 @@
-@import url(//fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap);
-@import url(//fonts.googleapis.com/css?family=Source+Code+Pro&display=swap);
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
 
 /* new bg EEF1EF */
@@ -7,7 +7,7 @@
 /* text 262322 */
 
 :root {
-  --bg: #080b16;
+  --bg: #030407;
   --accent: #7588A9;
   --text: #F4F4F8;
   --font: 'Source Code Pro';
