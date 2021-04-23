@@ -53,17 +53,22 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 
-a {
-  /* text-decoration: none; */
-  color: var(--text);
+nav a {
+    color: var(--text);
+    text-decoration: none;
+}
+
+footer a {
+    color: var(--text);
+    text-decoration: none;
 }
 
 a {
   color: var(--text);
+  text-decoration: underline;
 }
 
 a:hover {
-  text-decoration: underline;
   color: var(--accent);
 }
 
