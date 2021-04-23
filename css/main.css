@@ -54,7 +54,7 @@ nav ul li, footer ul li {
 }
 
 a {
-  text-decoration: none;
+  /* text-decoration: none; */
   color: var(--text);
 }
 
