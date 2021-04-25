@@ -9,7 +9,7 @@ date: 2020-08-07
 I have either read these works or am about to read them. Feel free to reach out to me to discuss any of these. Also, I am interested in trades or purchases if you have any related works in the below-listed fields. 
 
 ## Bibles
-
+- [Reading Checklist](/pdfs/Bible_Reading_Checklist.pdf)
 - English Standard Version Thinline Bible
 - English Standard Version Study Bible, Crossway (great notes, references)
 - Lockman's New American Standard Bible 
