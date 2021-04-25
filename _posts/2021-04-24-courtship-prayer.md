@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prayer: Courtship & Dating"
+title: "Prayer: Courtship and Dating"
 date: 2021-04-22
 ---
 
