@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
 
 /* new bg EEF1EF */
 /* bold_accent B07156 */
@@ -73,7 +72,7 @@ footer a {
 }
 
 
-h1 {
+h1, h2, h3, h4 {
     font-family: var(--font), monospace;
 }
 
