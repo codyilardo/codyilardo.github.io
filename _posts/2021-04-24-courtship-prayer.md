@@ -19,11 +19,12 @@ I thank you for blessing us with every spiritual blessing in Christ in the heave
 ## For Myself
 
 Holy Father, 
-> Let me walk in the fear of you.
-> Let me be mindful of eternity.
-> Let me remember to put on the armor of God, and live as a soldier. 
-> Let me be sober minded and watchful, and be full of the power of your Holy Spirit to be a witness.
-> Let me act like a man, and be strong in you in the strength of your might.
+
+- Let me walk in the fear of you.
+- Let me be mindful of eternity.
+- Let me remember to put on the armor of God, and live as a soldier. 
+- Let me be sober minded and watchful, and be full of the power of your Holy Spirit to be a witness.
+- Let me act like a man, and be strong in you in the strength of your might.
 
 Give me wisdom in this time of dating. Lead us not into temptation, but deliver us from evil. Lead my mind and imaginations. Lead my pace. Lead me in my words to be pure, heart-guarding, edifying, truthful. Let my thoughts, words, and actions about her be above reproach. 
 
@@ -35,16 +36,16 @@ Protect me from every attack against your call for godly leadership. Let me reme
 
 Let the only emotional foundation of my life be pure truth and righteousness in love. Protect me from demonic schemes of:
 
-> Fear of man
-> Fear of woman’s disapproval
-> Cowardice
-> Laziness and pride
-> Negligence
-> Lack of faith
-> Insecurities about myself
-> Comparison
-> Complaining
-> Compromise
+- Fear of man
+- Fear of woman’s disapproval
+- Cowardice
+- Laziness and pride
+- Negligence
+- Lack of faith
+- Insecurities about myself
+- Comparison
+- Complaining
+- Compromise
 
 Give me your supernatural strength to do the good works you have prepared beforehand for me to do. Empower my hands to bend a bow of bronze, and to conquer and subdue the creation around me to fulfill your command. Help me cherish, protect, and provide for her, and to take pleasure in the hard work you give me. 
 
@@ -58,11 +59,11 @@ I thank you for putting HER_NAME_HERE in my life. I ask that you wash her mind w
 
 God, be forming her into the woman you call her to be. Let her love what you love and hate what you hate. Equip her hands for the good deeds that you have prepared specifically for her. Please be forming her into the woman who will be a wife and mother that will show forth your character, and will, by your Spirit,
 
-> Stand along side me,
-> Be a helper fit for me,
-> Be my glory,
-> Help manage our household well,
-> And be fruitful in all areas.
+- Stand along side me,
+- Be a helper fit for me,
+- Be my glory,
+- Help manage our household well,
+- And be fruitful in all areas.
 
 Give her a pure mind, a pure heart, and pure hands. Protect her from Satan’s lies of subversion, like those of the serpent in the garden. Give her true, solid trust in your word, to be able to see the lies of the devil clearly. Every wicked, lying spirit against her, may the Lord rebuke you. I command you to depart from her in the name of Jesus Christ of Nazareth, whose name is above every other name. 
 
