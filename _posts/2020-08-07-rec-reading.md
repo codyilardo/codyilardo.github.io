@@ -33,7 +33,7 @@ I have either read these works or am about to read them. Feel free to reach out 
 
 ## Church History
 
-- The Ante-Nicene Fathers, Phillip Schaff (10 Volume Set, expensive. You can find the entire thing online free, or the individual authours in print for cheaper)
+- The Ante-Nicene Fathers, Phillip Schaff (10 Volume Set, expensive. You can find the entire thing online free, or the individual authors in print for cheaper)
 - A Dictionary of Early Christian Beliefs: A Reference Guide, David W. Bercot
 - Origen: Contra Celsum, Henry Chadwick
 - Eusebius' Ecclesiastical History: The Ten Books of Christian Church History, Complete and Unabridged
