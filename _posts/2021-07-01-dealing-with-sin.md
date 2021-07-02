@@ -6,11 +6,11 @@ date: 2021-07-01
 
 ## Dealing With Sin: Truth v. Lies
 
-| God's Way   | Satan's Way |
-| ----------- | ----------- |
-| Fear of God | Pride       |
-| Repentance  | Give Up     |
-| Forgiveness | Guilt       |
+| **God's Way**   | **Satan's Way** |
+| --------------- | --------------- |
+| Fear of God     | Pride           |
+| Repentance      | Give Up         |
+| Forgiveness     | Guilt           |
 
 I drew this chart in my notebook a few years ago, and have gone back to it multiple times. It is a helpful comparrison to show the truth for what it is, and lies for what they are. Every man, woman, anc child knows that they sin. What matters is how they deal with that information: God's way or Satan's way. 
 
