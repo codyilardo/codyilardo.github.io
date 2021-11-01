@@ -13,13 +13,13 @@ body {
     background-color: var(--bg);
     color: var(--text);
     margin: 80px;
+    width: 70%;
     font-family: var(--font);
 }
 
 .hero-text {
     font-family: var(--font);
     font-size: 3.5rem;
-    font-style: italic;
 }
 
 .p-mono {
