@@ -9,14 +9,10 @@
     --mono-font: 'Source Code Pro';
 }
 
-html {
-    font-size: 100%;
-}
-
 body {
     background-color: var(--bg);
     color: var(--text);
-    margin: 20px auto;
+    margin: 20% auto;
     width: 68%;
     font-family: var(--font);
 }
@@ -106,6 +102,6 @@ ul.posts li {
 }
 
 .post {
-    font-size: 1.3em;
+    font-size: 1.4em;
 	width: 80%;
 }
