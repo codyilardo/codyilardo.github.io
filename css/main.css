@@ -12,9 +12,7 @@
 body {
     background-color: var(--bg);
     color: var(--text);
-    margin: auto;
-    width: 70%;
-    height: 70%;
+    margin: 80px;
     font-family: var(--font);
 }
 
@@ -41,8 +39,8 @@ body {
 
 nav ul {
     font-family: var(--font);
-    font-weight: bolf;
-    font-size: 1em;
+    font-weight: bold;
+    font-size: 1.5rem;
     padding: 0px;
     list-style: none;
 } 
