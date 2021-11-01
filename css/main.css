@@ -1,16 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Alegreya&display=swap');
 
-/* :root {
-  --bg: #111214;
-  --accent: #d4ca8e;
-  --text: #F4F4F8;
-  --font: 'Source Code Pro';
-} */
-
 :root {
     --bg: #F2E9DC;
-    --accent: #00120B;  
+    --accent: #407076;  
     --text: #1E212B;
     --font: 'Alegreya';
 }
@@ -40,6 +33,7 @@ body {
 
 nav ul, footer ul {
     font-family: 'Source Code Pro', monospace;
+    font-size: 0.9em;
     padding: 0px;
     list-style: none;
 }
@@ -47,7 +41,7 @@ nav ul, footer ul {
 nav ul {
 	font-family: 'Source Code Pro', monospace;
     /* font-weight: bold; */
-    font-size: 1.3em;
+    /* font-size: 1.1em; */
 }
 
 
