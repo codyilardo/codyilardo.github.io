@@ -12,8 +12,8 @@
 body {
     background-color: var(--bg);
     color: var(--text);
-    margin: 20% auto;
-    width: 68%;
+    /* margin: 20% auto;
+    width: 68%; */
     font-family: var(--font);
 }
 
