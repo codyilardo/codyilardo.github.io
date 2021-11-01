@@ -12,14 +12,15 @@
 body {
     background-color: var(--bg);
     color: var(--text);
-    margin: 80px;
-    width: 70%;
+    margin: 180px;
+    width: 60%;
     font-family: var(--font);
 }
 
 .hero-text {
     font-family: var(--font);
     font-size: 3.5rem;
+    text-decoration: none !important;
 }
 
 .p-mono {

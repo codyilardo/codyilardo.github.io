@@ -4,8 +4,16 @@ title: Cody's Homepage
 ---
 <div class="blurb">
 
-	<h1 class="hero-text">I'm a disciple, <a href="https://github.com/codyilardo">developer</a>, and <a href="https://www.redbubble.com/people/ilardocallig/shop">designer</a>.</h1>
+	<h1 class="hero-text">I'm Cody Ilardo. I'm a disciple, <a href="https://github.com/codyilardo">developer</a>, and <a href="https://www.redbubble.com/people/ilardocallig/shop">designer</a>.</h1>
     <p>You can email me at m3tanoeite AT protonmail DOT com.</p>
+
     <p><a href="https://codyilardo.com/blog/2020/08/07/rec-reading">Recommended Reading</a></p>
+    
+    <h2>Recent Posts</h2>
+	<ul class="posts">
+	  {% for post in site.posts limit:4 %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>
 
 </div>
