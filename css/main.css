@@ -9,10 +9,14 @@
     --mono-font: 'Source Code Pro';
 }
 
+html {
+    font-size: 100%;
+}
+
 body {
     background-color: var(--bg);
     color: var(--text);
-    margin: 20% auto;
+    padding:  15%;
     width: 68%;
     font-family: var(--font);
 }
