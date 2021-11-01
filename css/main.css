@@ -12,15 +12,33 @@
 body {
     background-color: var(--bg);
     color: var(--text);
-    margin: 180px;
-    width: 60%;
+    margin: 80px 120px 80px 120px;
+    width: 65%;
     font-family: var(--font);
+}
+
+  
+a.hero-links {
+  background:
+     linear-gradient(
+       to bottom, var(--accent) 0%,
+       var(--accent) 100%
+     );
+  background-position: 0 100%;
+  background-repeat: repeat-x;
+  background-size: 4px 4px;
+  color: var(--font);
+  text-decoration: none !important;
+  transition: background-size .2s;
+}
+
+a.hero-links:hover {
+  background-size: 4px 50px;
 }
 
 .hero-text {
     font-family: var(--font);
     font-size: 3.5rem;
-    text-decoration: none !important;
 }
 
 .p-mono {
