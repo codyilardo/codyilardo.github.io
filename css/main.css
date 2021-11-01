@@ -16,6 +16,12 @@ body {
     font-family: var(--font);
 }
 
+.hero-text {
+    font-family: var(--font);
+    font-size: large;
+    font-style: italic;
+}
+
 .p-mono {
     font-family: var(--font);
     font-size: 1.2em;
@@ -31,22 +37,22 @@ body {
 	font-family: 'Source Code Pro', monospace;
 }
 
-nav ul, footer ul {
+nav ul {
+    font-family: var(--font);
+    font-weight: bolf;
+    font-size: 1em;
+    padding: 0px;
+    list-style: none;
+} 
+
+footer ul {
     font-family: 'Source Code Pro', monospace;
     font-size: 0.9em;
     padding: 0px;
     list-style: none;
 }
 
-nav ul {
-	font-family: 'Source Code Pro', monospace;
-    /* font-weight: bold; */
-    /* font-size: 1.1em; */
-}
-
-
 nav ul li, footer ul li {
-    /* font-family: var(--font), monospace; */
     display: inline;
     margin-right: 20px;
 }
