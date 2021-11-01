@@ -39,18 +39,20 @@ body {
 }
 
 nav ul, footer ul {
+    font-family: 'Source Code Pro', monospace;
     padding: 0px;
     list-style: none;
 }
 
 nav ul {
-    font-weight: bold;
+	font-family: 'Source Code Pro', monospace;
+    /* font-weight: bold; */
     font-size: 1.3em;
 }
 
 
 nav ul li, footer ul li {
-    font-family: var(--font), monospace;
+    /* font-family: var(--font), monospace; */
     display: inline;
     margin-right: 20px;
 }
