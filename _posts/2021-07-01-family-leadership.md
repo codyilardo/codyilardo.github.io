@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Leadership as Husband & Father"
+title: "Leadership as Husband and Father"
 date: 2021-07-01
 ---
 
