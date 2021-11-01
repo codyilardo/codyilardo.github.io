@@ -1,15 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap');
 
-/* new bg EEF1EF */
-/* bold_accent B07156 */
-/* text 262322 */
-
-:root {
+/* :root {
   --bg: #111214;
   --accent: #d4ca8e;
   --text: #F4F4F8;
   --font: 'Source Code Pro';
+} */
+
+:root {
+    --bg: #EBF2FA;
+    --accent: #779CAB;  
+    --text: #1E212B;
+    --font: 'Source Sans Pro';
 }
 
 body {
