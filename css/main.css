@@ -16,7 +16,7 @@ html {
 body {
     background-color: var(--bg);
     color: var(--text);
-    padding:  15%;
+    margin: 20px auto;
     width: 68%;
     font-family: var(--font);
 }
