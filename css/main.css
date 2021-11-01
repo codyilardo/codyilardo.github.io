@@ -6,19 +6,20 @@
     --accent: #407076;  
     --text: #1E212B;
     --font: 'Alegreya';
+    --mono-font: 'Source Code Pro';
 }
 
 body {
     background-color: var(--bg);
     color: var(--text);
-    margin: 60px auto;
+    margin: 20% auto;
     width: 68%;
     font-family: var(--font);
 }
 
 .hero-text {
     font-family: var(--font);
-    font-size: 3.5em;
+    /* font-size: 3.5em; */
     font-style: italic;
     font-weight: bold;
 }
@@ -48,7 +49,6 @@ nav ul {
 
 footer ul {
     font-family: 'Source Code Pro', monospace;
-    font-size: 0.9em;
     padding: 0px;
     list-style: none;
 }
@@ -79,12 +79,12 @@ footer a {
 
 
 h1, h2, h3, h4 {
-    font-family: var(--font), monospace;
+    font-family: var(--font), sans-serif;
 }
 
 p {
-    font-family: var(--font), monospace;
-    font-size: 1em;
+    font-family: var(--font), sans-serif;
+    font-size: 1.5em;
     color: var(--text);
 }
 footer {
@@ -102,6 +102,6 @@ ul.posts li {
 }
 
 .post {
-    font-size: 1.1em;
+    font-size: 1.3em;
 	width: 80%;
 }
