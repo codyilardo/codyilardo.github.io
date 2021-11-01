@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&display=swap');
 
 /* :root {
   --bg: #111214;
@@ -9,17 +9,17 @@
 } */
 
 :root {
-    --bg: #F3F9E3;
-    --accent: #94A89A;  
+    --bg: #F2E9DC;
+    --accent: #00120B;  
     --text: #1E212B;
-    --font: 'EB Garamond';
+    --font: 'Alegreya';
 }
 
 body {
     background-color: var(--bg);
     color: var(--text);
     margin: 60px auto;
-    width: 70%;
+    width: 68%;
     font-family: var(--font);
 }
 
