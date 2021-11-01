@@ -17,6 +17,16 @@ body {
     font-family: var(--font);
 }
 
+h1, h2, h3, h4 {
+    font-family: var(--font), sans-serif;
+}
+
+p {
+    font-family: var(--font), sans-serif;
+    font-size: 1.1rem;
+    color: var(--text);
+}
+
 a.hero-links {
     text-decoration: none !important;
 }
@@ -26,19 +36,14 @@ a.hero-links {
     font-size: 3.5rem;
 }
 
-.p-mono {
-    font-family: var(--font);
-    font-size: 1.2em;
-}
-
 .p-mono-gpg {
-    font-family: 'Source Code Pro', monospace;
+    font-family: var(--mono-font), monospace;
     font-size: 0.72em;
     width: 64ch;
 }
 
 .gpg-container {
-	font-family: 'Source Code Pro', monospace;
+	font-family: var(--mono-font), monospace;
 }
 
 nav ul {
@@ -50,7 +55,7 @@ nav ul {
 } 
 
 footer ul {
-    font-family: 'Source Code Pro', monospace;
+    font-family: var(--mono-font), monospace;
     padding: 0px;
     list-style: none;
 }
@@ -77,17 +82,6 @@ nav a {
 footer a {
     color: var(--text);
     text-decoration: none !important;
-}
-
-
-h1, h2, h3, h4 {
-    font-family: var(--font), sans-serif;
-}
-
-p {
-    font-family: var(--font), sans-serif;
-    font-size: 1rem;
-    color: var(--text);
 }
 
 footer {
