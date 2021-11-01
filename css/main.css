@@ -18,8 +18,9 @@ body {
 
 .hero-text {
     font-family: var(--font);
-    font-size: large;
+    font-size: 3.5;
     font-style: italic;
+    font-weight: bold;
 }
 
 .p-mono {
