@@ -12,7 +12,8 @@
 body {
     background-color: var(--bg);
     color: var(--text);
-    margin: 80px 120px 80px 120px;
+    /* margin: 80px 120px 80px 120px; */
+    margin: 12% 20% 12% 20%;
     width: 65%;
     font-family: var(--font);
 }
@@ -27,8 +28,22 @@ p {
     color: var(--text);
 }
 
-a.hero-links {
+a.hero-link {
+    background:
+       linear-gradient(
+         to bottom, var(--accent) 0%,
+         var(--accent) 100%
+       );
+    background-position: 0 100%;
+    background-repeat: repeat-x;
+    background-size: 4px 4px;
+    color: var(--text);
     text-decoration: none !important;
+    transition: background-size .2s;
+  }
+  
+a.hero-link:hover {
+  background-size: 4px 50px;
 }
 
 .hero-text {
