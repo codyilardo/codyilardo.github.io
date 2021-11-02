@@ -12,7 +12,6 @@
 body {
     background-color: var(--bg);
     color: var(--text);
-    /* margin: 80px 120px 80px 120px; */
     margin: 80px 22% 80px 22%;
     width: 65%;
     font-family: var(--font);
@@ -28,7 +27,7 @@ p {
     color: var(--text);
 }
 
-a {
+a.hero-link {
     background:
        linear-gradient(
          to bottom, var(--accent) 0%,
@@ -42,14 +41,14 @@ a {
     transition: background-size .2s;
   }
   
-a:hover {
+a.hero-link:hover {
   background-size: 4px 50px;
 }
 
-/* a {
+a {
   color: var(--text);
   text-decoration: underline;
-} */
+}
 
 .hero-text {
     font-family: var(--font);
@@ -91,7 +90,7 @@ nav a {
 }
 
 footer a {
-    color: var(--text);
+    color: var(--accent);
     text-decoration: none !important;
 }
 
