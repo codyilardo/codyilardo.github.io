@@ -9,6 +9,11 @@
     --mono-font: 'Source Code Pro';
 }
 
+html {
+    margin: 0px;
+    padding: 0px;
+}
+
 body {
     background-color: var(--bg);
     color: var(--text);
@@ -16,7 +21,6 @@ body {
     margin-bottom: 100px;
     margin-right: 22%;
     margin-left: 22%;
-    /* width: 65%; */
     font-family: var(--font);
 }
 
