@@ -12,7 +12,10 @@
 body {
     background-color: var(--bg);
     color: var(--text);
-    margin: 80px 22% 80px 22%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 22%;
+    margin-left: 22%;
     width: 65%;
     font-family: var(--font);
 }
