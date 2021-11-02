@@ -16,7 +16,7 @@ body {
     margin-bottom: 100px;
     margin-right: 22%;
     margin-left: 22%;
-    width: 65%;
+    /* width: 65%; */
     font-family: var(--font);
 }
 
