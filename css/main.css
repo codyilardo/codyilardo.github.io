@@ -28,7 +28,7 @@ p {
     color: var(--text);
 }
 
-a.hero-link {
+a {
     background:
        linear-gradient(
          to bottom, var(--accent) 0%,
@@ -42,9 +42,14 @@ a.hero-link {
     transition: background-size .2s;
   }
   
-a.hero-link:hover {
+a:hover {
   background-size: 4px 50px;
 }
+
+/* a {
+  color: var(--text);
+  text-decoration: underline;
+} */
 
 .hero-text {
     font-family: var(--font);
@@ -78,15 +83,6 @@ footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
-}
-
-a {
-  color: var(--text);
-  text-decoration: underline;
-}
-
-a:hover {
-  color: var(--accent);
 }
 
 nav a {
