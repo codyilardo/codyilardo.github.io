@@ -57,6 +57,10 @@ a {
   text-decoration: underline;
 }
 
+a:hover {
+    color: var(--accent);
+}
+
 .hero-text {
     font-family: var(--font);
     font-size: 3.5rem;
