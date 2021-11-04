@@ -43,6 +43,10 @@ a:hover {
     color: var(--accent);
 }
 
+blockquote {
+    font-style: italic !important;
+}
+
 a.hero-link {
     background:
        linear-gradient(
