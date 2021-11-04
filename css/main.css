@@ -34,6 +34,15 @@ p {
     color: var(--text);
 }
 
+a {
+    color: var(--text);
+    text-decoration: underline;
+}
+  
+a:hover {
+    color: var(--accent);
+}
+
 a.hero-link {
     background:
        linear-gradient(
@@ -50,15 +59,7 @@ a.hero-link {
   
 a.hero-link:hover {
   background-size: 4px 50px;
-}
-
-a {
-  color: var(--text);
-  text-decoration: underline;
-}
-
-a:hover {
-    color: var(--accent);
+  color: var(--text) !important;
 }
 
 .hero-text {
