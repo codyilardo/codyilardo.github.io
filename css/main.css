@@ -97,7 +97,7 @@ nav a {
 }
 
 footer a {
-    color: var(--accent);
+    color: var(--text);
     text-decoration: none !important;
 }
 
