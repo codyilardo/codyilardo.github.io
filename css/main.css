@@ -136,11 +136,11 @@ ul.posts li {
 @media only screen and (max-width: 700px) {
 
     html {
-        font-size: 150% !important;
+        font-size: 300% !important;
         margin: 0px;
         padding: 0px;
     }
-    
+
     body {
         background-color: var(--bg) !important;
         color: var(--text) !important;
