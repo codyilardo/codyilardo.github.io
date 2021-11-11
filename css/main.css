@@ -1,13 +1,17 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Alegreya&display=swap');
 
-/* :root {
+/* LIGHT MODE THEMEING */
+/* 
+:root {
     --bg: #e2dfda;
     --accent: #407076;  
     --text: #1E212B;
     --font: 'Alegreya';
     --mono-font: 'Source Code Pro';
-} */
+} 
+
+*/
 
 :root {
     --bg: #16181f;
