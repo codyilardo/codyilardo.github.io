@@ -133,10 +133,9 @@ ul.posts li {
 }
 
 /* PHONE SCREEN CHANGES */
-/* @media only screen and (max-width: 700px) {
+@media only screen and (max-width: 700px) {
 
     html {
-        font-size: 300% !important;
         margin: 0px;
         padding: 0px;
     }
@@ -144,9 +143,12 @@ ul.posts li {
     body {
         background-color: var(--bg) !important;
         color: var(--text) !important;
-        margin: auto;
+         /* margin: auto; */
         width: 90% !important;
         font-family: var(--font) !important;
-    }
-    
-} */
+        margin-top: 15px;
+        margin-bottom: 15px;
+        margin-right: 9%;
+        margin-left: 9%;
+    }   
+}
