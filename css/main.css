@@ -10,8 +10,8 @@
 } */
 
 :root {
-    --bg: #1E212B;
-    --accent: #407076;  
+    --bg: #16181f;
+    --accent: #5e878d;  
     --text: #e2dfda;
     --font: 'Alegreya';
     --mono-font: 'Source Code Pro';
@@ -133,14 +133,19 @@ ul.posts li {
 }
 
 /* PHONE SCREEN CHANGES */
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 700px) {
 
     body {
-        font-size: 150%;
-        background-color: var(--bg);
-        color: var(--text);
+        font-size: 150% !important;
+        background-color: var(--bg) !important;
+        color: var(--text) !important;
         margin: auto;
-        width: 90%;
-        font-family: var(--font);
+        width: 90% !important;
+        font-family: var(--font) !important;
+    }
+
+    html {
+        margin: 0px;
+        padding: 0px;
     }
 }
