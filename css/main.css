@@ -141,14 +141,12 @@ ul.posts li {
     }
 
     body {
-        background-color: var(--bg) !important;
-        color: var(--text) !important;
-         /* margin: auto; */
-        width: 90% !important;
-        font-family: var(--font) !important;
         margin-top: 15px;
         margin-bottom: 15px;
         margin-right: 9%;
         margin-left: 9%;
+        background-color: var(--bg) !important;
+        color: var(--text) !important;
+        font-family: var(--font) !important;
     }   
 }
