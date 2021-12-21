@@ -14,11 +14,9 @@ Whenever I am feeling stagnant in my faith, this reminder always gives me the ri
 
 It is step one in the right outlook on life. It is step one on making the most of life. It is step one in seeing the cross of Christ with the right eyes, to believe in him for salvation. 
 
-```
-The fear of God is lacking in our society, 
-because it is lacking in our churches, 
-because it is lacking in our hearts. 
-```
+> The fear of God is lacking in our society, 
+> because it is lacking in our churches, 
+> because it is lacking in our hearts. 
 
 This to me is the start of the fear of God: to simply behold God. To see his creation: his power, wisdom, and will expressed. To see in the scriptures where he has revealed his character, and the unique, amazing truth of his gospel. To hear of his justice: that no man is hidden from his sight, that we will all stand naked before his all-knowing presence, that the righteous will go to everlasting peace with him and the wicked to everlasting destruction away from the presence of his might. 
 
@@ -26,15 +24,13 @@ The fear of God is baked into our conscience also, but most of us spend our live
 
 For me, I need the scriptures, prayer, the Spirit’s help, the fellowship of the believers, the Lord’s supper, and the preaching of God’s word regularly. These are means God uses to shape us into likeness to Christ, who is spoken of in the prophets this way:
 
-```
-There shall come forth a shoot from the stump of Jesse,
-        and a branch from his roots shall bear fruit.
-And the Spirit of the LORD shall rest upon him,
-        the Spirit of wisdom and understanding,
-        the Spirit of counsel and might,
-        the Spirit of knowledge and the fear of the LORD.
-And his delight shall be in the fear of the LORD.  (Isaiah 11:1–2)
-```
+> There shall come forth a shoot from the stump of Jesse,
+>         and a branch from his roots shall bear fruit.
+> And the Spirit of the LORD shall rest upon him,
+>         the Spirit of wisdom and understanding,
+>         the Spirit of counsel and might,
+>         the Spirit of knowledge and the fear of the LORD.
+> And his delight shall be in the fear of the LORD.  (Isaiah 11:1–2)
 
 We see that Jesus, the Son, in his becoming a man, walked in the fear of God, who is his Father and God, and our Father and God. He was perfect, yet set us imperfect, fallen men the example of humility so no one could think they are above humility. 
 
