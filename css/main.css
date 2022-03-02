@@ -134,6 +134,10 @@ ul.posts li {
     list-style: none;
 }
 
+.post-date {
+    font-family: var(--mono-font) !important;
+}
+
 /* PHONE SCREEN CHANGES */
 @media only screen and (max-width: 700px) {
 
