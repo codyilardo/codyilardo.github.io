@@ -1,25 +1,23 @@
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Alegreya&display=swap');
 
-/* LIGHT MODE THEMEING */
-/* 
+/* LIGHT MODE THEMEING */ 
+
 :root {
-    --bg: #e2dfda;
+    --bg: #eeedeb;
     --accent: #407076;  
     --text: #1E212B;
     --font: 'Alegreya';
     --mono-font: 'Source Code Pro';
 } 
 
-*/
-
-:root {
+/* :root {
     --bg: #16181f;
     --accent: #5e878d;  
     --text: #e2dfda;
     --font: 'Alegreya';
     --mono-font: 'Source Code Pro';
-}
+} */
 
 html {
     margin: 0px;
@@ -153,4 +151,9 @@ ul.posts li {
         color: var(--text) !important;
         font-family: var(--font) !important;
     }   
+
+    .hero-text {
+        font-family: var(--font);
+        font-size: 1.5rem;
+    }
 }
