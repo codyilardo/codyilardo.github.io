@@ -6,17 +6,20 @@ date: 2022-03-11
 
 ## Introduction
 
-Q. What is forgiveness?
-Q. How does God deal with the sins of his people?
+- Q. What is forgiveness?
+- Q. How does God deal with the sins of his people?
 
 God’s preferred way of dealing with sin:
 
-God’s Way       | Satan’s Way
-----------------|-------------
-Fear of God     | Pride
-Repentance      | Give Up
-**Forgiveness** | Guilt
+### God’s Way       
+1. Fear of God     
+2. Repentance      
+3. **Forgiveness** 
 
+### Satan’s Way
+1. Pride
+2. Give Up
+3. Guilt
 
 God's forgiveness is what we are going to be focusing on today.
 
@@ -73,7 +76,15 @@ How can he let evil men off the hook? That is heaven’s question, and *Christ i
 
 The Father sent his only son to die for our sins. Our punishment was on him.  
 
-For there is no distinction: [23] for all have sinned and fall short of the glory of God, [24] and are *justified by his grace as a gift, through the redemption that is in Christ Jesus*, [25] whom God put forward as a propitiation by his blood, to be received by faith. This was to show God’s righteousness, because in his divine forbearance he had passed over former sins. [26] It was to show his righteousness at the present time, so that *he might be just and the justifier* of the one who has faith in Jesus. (Romans 3:22–26) 
+For there is no distinction: 
+
+    [23] for all have sinned and fall short of the glory of God, 
+    [24] and are *justified by his grace as a gift, through the redemption that is in Christ Jesus*, 
+    [25] whom God put forward as a propitiation by his blood, to be received by faith. 
+        This was to show God’s righteousness, because in his divine forbearance he had passed over former sins. 
+    [26] It was to show his righteousness at the present time,
+        so that *he might be just and the justifier* of the one who has faith in Jesus. 
+    (Romans 3:22–26) 
 
 Because Christ has borne our punishment, God passes over our sins. He counts us as innocent and cleansed from our law breaking. Jesus perfectly kept the law of God, so he could die as a sinless sacrifice for us. 
 
