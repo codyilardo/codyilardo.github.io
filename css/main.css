@@ -160,4 +160,12 @@ ul.posts li {
         font-family: var(--font);
         font-size: 2.5rem;
     }
+
+    .footer-li {
+        font-size: 0.9em;
+    }
+
+    .post-li {
+        font-size: 0.75em;
+    }
 }
