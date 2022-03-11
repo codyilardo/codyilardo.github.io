@@ -165,8 +165,11 @@ ul.posts li {
         font-size: 0.8em;
     }
 
+    .post-ul {
+        width: 90%;
+    }
+
     .post-li {
-        width: 290px;
         font-size: 0.75em;
         overflow: hidden; 
         text-overflow: ellipsis;
