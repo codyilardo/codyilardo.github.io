@@ -162,10 +162,11 @@ ul.posts li {
     }
 
     .footer-li {
-        font-size: 0.6em;
+        font-size: 0.82em;
     }
 
     .post-li {
+        width: 100%;
         font-size: 0.75em;
         overflow: hidden; 
         text-overflow: ellipsis;
