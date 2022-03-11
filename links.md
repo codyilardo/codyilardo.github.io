@@ -21,5 +21,4 @@ Links page under construction. Links are not a full endorsement, use discernment
 
 ## People
 
-
-
+- [https://micahbarberphotography.com/](https://micahbarberphotography.com/) A friend's excellent wildlife photography

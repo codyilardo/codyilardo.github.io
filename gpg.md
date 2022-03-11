@@ -5,6 +5,9 @@ title: gpg
 
 # GPG 
 
+- If you want to send me an enrypted message, use my public key here to encypt it
+- How to import and use GPG key [here](https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages)
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 mQGNBF8h2Z0BDACxksUJgCBxsL8+D9bASbiOGeUS4QuuhalNcYJ8gwXFmPh7G5te
