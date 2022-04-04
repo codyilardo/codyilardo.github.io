@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tolerance Is Not Love"
-date: 2022-04-04
+date: 2022-04-03
 ---
 
 In the book of Revelation Jesus is talking to the church in Thyatira. He commends them for their faith, service and patient endurance, but Jesus has one thing against them. 
