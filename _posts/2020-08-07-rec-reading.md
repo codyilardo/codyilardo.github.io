@@ -42,6 +42,11 @@ I have either read these works or am about to read them. Feel free to reach out 
 - The Shepherd of Hermas, Daniel Robison
 - Josephus-The Complete Works of Flavius Josephus 
 
+## Marriage & Family
+
+- Reforming Marriage, Douglas Wilson
+- Why Children Matter, Douglas Wilson
+
 ## General Christianity
 
 - Unlocking the Bible, David Pawson
@@ -56,7 +61,7 @@ I have either read these works or am about to read them. Feel free to reach out 
 - The Pilgrim's Progress, John Bunyan
 - Temptation: What it is and How We Overcome, Daniel Robison
 - The Best of R.A. Torrey, R.A. Torrey
-- The Baptism with the Holy Spirit: A Modern Edition, Daniel Robison
+- The Baptism with the Holy Spirit: R.A. Torrey A Modern Edition, Daniel Robison
 - A Grief Observed, C.S. Lewis
 - The Abolition of Man, C.S. Lewis
 - Pensees, Blaise Pascal
@@ -94,7 +99,6 @@ I have either read these works or am about to read them. Feel free to reach out 
 - The Earliest English Poems, Michael Alexander
 - Harvard Classics #49: Epics and Saga, Charles W. Eliot
 - Selected Poems of Alfred Lord Tennyson
-- Zong! Wesleyan Poetry Series, M. NourbeSe Phillip
 
 ## General Literature & Fiction
 
@@ -105,5 +109,6 @@ I have either read these works or am about to read them. Feel free to reach out 
 - The Screwtape Letters, C.S. Lewis
 - Out of the Silent Planet, C.S. Lewis
 - Perelandra, C.S. Lewis
+- That Hideous Strength, C.S. Lewis
 - The Oxford Dictionary of Quotations, Third Edition, Oxford University Press
 - 12,000 Religious Quotation, Frank S. Mead 
