@@ -21,4 +21,5 @@ Links page under construction. Links are not a full endorsement, use discernment
 
 ## People
 
+- [Stark Reality Podcast](https://open.spotify.com/show/0xre3BwHoqgMokH33Iw7WZ?si=13c914d3dc784201) A podcast that Jackson Stark and I host  
 - [https://micahbarberphotography.com/](https://micahbarberphotography.com/) A friend's excellent wildlife photography
