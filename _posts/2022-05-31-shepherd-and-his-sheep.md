@@ -21,7 +21,7 @@ Jesus replied to them, “I told you, and you did not believe… because you are
 Jesus calls his people sheep. 
 Why do you think he makes that comparison?
 1. Absolute Ownership of the Sheep
-    - Sheep are completely the property and posession of the Shepherd.
+    - Sheep are completely the property and possession of the Shepherd.
 1. Absolute Dependence of the Sheep
     - Sheep would die without the water and food that the Shepherd leads them to. 
 1. Absolute Vulnerability of the Sheep
