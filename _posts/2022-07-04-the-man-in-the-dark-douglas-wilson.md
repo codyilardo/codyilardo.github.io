@@ -3,9 +3,6 @@ layout: post
 title: "Book Review: The Man in the Dark: A Romance by Douglas Wilson"
 date: 2022-07-04
 ---
-
-![Book Cover Image](https://cdn.shopify.com/s/files/1/0154/4706/4624/products/douglas-wilson-books-audiobook-the-man-in-the-dark-a-romance-28750054686768.jpg?v=1650580018)
-
 ## The Book
 
 Douglas Wilson’s The Man in the Dark: A Romance is an excellent fiction novel that I just finished. From the back:
