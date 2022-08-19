@@ -1,8 +1,8 @@
 theme: minima
 minima:
   skin: dark
-plugins:
-  - jekyll-feed
+# plugins:
+#   - jekyll-feed
 name: Cody Ilardo
 permalink: /blog/:year/:month/:day/:title
 author: 
