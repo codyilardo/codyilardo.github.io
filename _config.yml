@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "show_excerpts:"
   I am a disciple, developer, and designer. 
 
 minima:
-  skin: solarized-dark
+  # skin: dark
 
 paginate: 5
 
