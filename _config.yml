@@ -1,11 +1,14 @@
+title: Cody Ilardo
+
 theme: minima
 
 minima:
   skin: solarized-dark
 
-
+paginate: true
 name: Cody Ilardo
 permalink: /blog/:year/:month/:day/:title
+
 author: 
   name: Cody Ilardo
   twitter: codyilardo
@@ -13,4 +16,4 @@ author:
 
 header_pages:
   - about.md
-  - blog.md
+  - blog.html
