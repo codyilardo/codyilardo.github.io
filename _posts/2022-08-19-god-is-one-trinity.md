@@ -4,7 +4,7 @@ title: "God is One: The Holy Trinity"
 date: 2022-08-19
 ---
 
-## Two Popular Analogies, and The Erronious Historical Perspective They Represent
+## Two Popular Analogies, and The Historical Perspective They Represent
 
 These two analogies represent the perspective historically called [modalism](https://en.wikipedia.org/wiki/Modalistic_Monarchianism). This was considered a heresy in the early church. It basically says that God is one in being and in personhood. It says that Jesus is the Father, is the Son, and is the Holy Spirit. It says that the Father, Son, and Spirit are not distinct persons of the Godhead, but rather that those are just names/titles that are applied in different circumstances to God. Here are two analogies commonly used that logically align with this belief, whether intentionally or unintentionally.
 
