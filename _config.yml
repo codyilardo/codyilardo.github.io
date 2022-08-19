@@ -11,8 +11,8 @@ email: codyilardo AT gmail DOT com
 description: > # this means to ignore newlines until "show_excerpts:"
   I am a disciple, developer, and designer. 
 
-skin: solarized-dark
-# minima:
+minima:
+  skin: solarized-dark
 
 paginate: 5
 
