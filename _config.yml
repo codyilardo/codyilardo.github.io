@@ -1,7 +1,8 @@
-theme: jekyll-theme-minimal
+theme: minima
+plugins:
+  - jekyll-feed
 name: Cody Ilardo
 permalink: /blog/:year/:month/:day/:title
 author: 
   name: Cody Ilardo
   twitter: codyilardo
-twitter: codyilardo
