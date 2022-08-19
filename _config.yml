@@ -1,23 +1,25 @@
+
+theme: minima
+remote_theme: "jekyll/minima"
+
 title: Cody Ilardo
 
-author:
-  name: Cody Ilardo
-  email: codyilardo AT gmail DOT com
+name: Cody Ilardo
+email: codyilardo AT gmail DOT com
+# author:
+
 description: > # this means to ignore newlines until "show_excerpts:"
   I am a disciple, developer, and designer. 
 
-minima:
-  skin: solarized-dark
+skin: solarized-dark
+# minima:
 
-paginate: 15
-paginate-path: /page-:num
+paginate: 5
 
-name: Cody Ilardo
 permalink: /blog/:year/:month/:day/:title
-
-theme: minima
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-pagination
+  - jekyll-remote-theme
