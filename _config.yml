@@ -1,19 +1,21 @@
 title: Cody Ilardo
 
-theme: minima
+author:
+  name: Cody Ilardo
+  email: codyilardo AT gmail DOT com
+description: > # this means to ignore newlines until "show_excerpts:"
+  I am a disciple, developer, and designer. 
 
 minima:
   skin: solarized-dark
 
 paginate: true
+
 name: Cody Ilardo
 permalink: /blog/:year/:month/:day/:title
 
-author: 
-  name: Cody Ilardo
-  twitter: codyilardo
-# show_excerpts: true
+theme: minima
 
-header_pages:
-  - about.md
-  - blog.html
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
