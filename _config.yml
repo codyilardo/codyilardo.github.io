@@ -9,7 +9,8 @@ description: > # this means to ignore newlines until "show_excerpts:"
 minima:
   skin: solarized-dark
 
-paginate: true
+paginate: 15
+paginate-path: /page-:num
 
 name: Cody Ilardo
 permalink: /blog/:year/:month/:day/:title
@@ -19,3 +20,4 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-pagination
