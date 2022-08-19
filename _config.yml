@@ -1,4 +1,6 @@
 theme: minima
+minima:
+  skin: dark
 plugins:
   - jekyll-feed
 name: Cody Ilardo
@@ -6,3 +8,4 @@ permalink: /blog/:year/:month/:day/:title
 author: 
   name: Cody Ilardo
   twitter: codyilardo
+show_excerpts: true
