@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Marriage Benefits"
+title: "Marriage Benefits By God's Design"
 date: 2022-08-24
 ---
 
