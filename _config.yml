@@ -8,8 +8,8 @@ name: Cody S. Ilardo
 email: m3tanoeite AT protonmail DOT com
 # author:
 
-description: > # this means to ignore newlines until "show_excerpts:"
-  I am a disciple, developer, and designer. 
+# description: > # this means to ignore newlines until "show_excerpts:"
+#    My name is Cody Ilardo, welcome to my website.  
 
 minima:
   skin: dark
