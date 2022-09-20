@@ -2,6 +2,13 @@
 layout: default
 title: About
 ---
+
+# Important Notice
+
+Hey! I am moving my writing to Substack. Subscribe below to stay in the loop: 
+
+<iframe src="https://codyilardo.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
 # About
 
 Hello, welcome to my website. On the occasion I have thoughts, I put some of them here. 
