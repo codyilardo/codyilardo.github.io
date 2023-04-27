@@ -7,15 +7,13 @@ title: About
 
 Hey! I am moving my writing to Substack. Subscribe below to stay in the loop: 
 
-<iframe src="https://codyilardo.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://codyilardo.substack.com/embed" width="680" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 # About
 
-Hello, welcome to my website. On the occasion I have thoughts, I put some of them here. 
-
-My name is Cody Ilardo. I am a disciple of Christ, who loved me and freed me from my sins by his blood (Revelation 1:5-6). I work in software development by trade. I enjoy many good gifts from God, but some of my favorites are [reading](https://codyilardo.com/blog/2020/08/07/rec-reading) old books, Florida's rivers, and the wife's cooking.
+My name is Cody Ilardo. I am a disciple of Christ, who loved me and freed me from my sins by his blood (Revelation 1:5-6). I work in software development by trade. I enjoy many good gifts from God, but some of my favorites are old books, Florida's rivers, and the wife's cooking.
 
 ## Contact 
 
-- Email me at m3tanoeite AT protonmail DOT com. I intentionally don't check this too often, so it may be a bit before I get back to you.
+- Email me at codyilardo AT gmail DOT com.
 - [gpg key](https://codyilardo.com/gpg.html) if you want

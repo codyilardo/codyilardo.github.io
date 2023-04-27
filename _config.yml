@@ -5,7 +5,7 @@ theme: minima
 title: Cody Ilardo
 
 name: Cody S. Ilardo
-email: m3tanoeite AT protonmail DOT com
+email: codyilardo AT gmail DOT com
 # author:
 
 # description: > # this means to ignore newlines until "show_excerpts:"
@@ -14,12 +14,11 @@ email: m3tanoeite AT protonmail DOT com
 minima:
   skin: dark
 
-paginate: 5
+# paginate: 5
 
 permalink: /blog/:year/:month/:day/:title
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-pagination
   - jekyll-remote-theme
