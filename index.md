@@ -30,8 +30,6 @@ or on my (currently inactive) [Instagram](https://www.instagram.com/ilardocallig
 
 <br>
 
-
-
 ## Painting Contracting
 
 I work with [Stephen Ilardo Painting](https://www.facebook.com/sipainting/). We do residential and commercial painting. If I directed you here for painting contracting, contact me at codyilardo AT gmail DOT com\
