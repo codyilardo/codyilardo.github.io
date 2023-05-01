@@ -12,9 +12,6 @@ I write a newsletter called [Power & Glory.](https://codyilardo.substack.com/) I
 
 I work in software development, primarily writing software in Typescript, C#, and SQL. Contact me if you are interested in working on a project or seeing my resume. 
 
-## Wedding Calligraphy
-
-I write the names of your wedding guests in calligraphy, providing your friends and family with entertainment during dinner/cocktail hour, and a unique and memorable wedding favor to take home. Contact me to see availability and pricing!
 
 ## Calligraphy Art & Design 
 
@@ -29,6 +26,10 @@ Find some of my older calligraphy art and graphic design for sale [here on Redbu
 <script async src="//www.instagram.com/embed.js"></script>
 
 <br>
+
+## Wedding Calligraphy
+
+I write the names of your wedding guests in calligraphy, providing your friends and family with entertainment during dinner/cocktail hour, and a unique and memorable wedding favor to take home. Contact me to see availability and pricing!
 
 ## Painting Contracting
 
