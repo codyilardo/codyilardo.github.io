@@ -3,19 +3,19 @@ layout: default
 title: Projects
 ---
 
-## Power & Glory Newsletter
-
-I write a newsletter called [Power & Glory.](https://codyilardo.substack.com/) I write a few posts a month. Use the form below to sign up!
 <iframe src="https://codyilardo.substack.com/embed" width="100%" height="300" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
-## Software Development
+# Power & Glory
 
-I work in software development, primarily writing software in Typescript, C#, and SQL. Contact me if you are interested in working on a project or seeing my resume. 
+I write a newsletter called [Power & Glory.](https://codyilardo.substack.com/) I write a few posts a month. Use the form above to sign up!
 
+# Software Development
 
-## Calligraphy Art & Design 
+I work in software development, primarily writing software in *Typescript, C#, and SQL.* Contact me if you are interested in working on a project or seeing my resume. 
 
-Find some of my older calligraphy art and graphic design for sale [here on Redbubble](https://www.redbubble.com/people/ilardocallig/shop), or on my (currently inactive) [Instagram](https://www.instagram.com/ilardocalligraphy/)
+# Calligraphy Art & Design 
+
+Find some of my older calligraphy art and graphic design for sale [here on Redbubble](https://www.redbubble.com/people/ilardocallig/shop), or on my [Instagram](https://www.instagram.com/ilardocalligraphy/).
 
 <!-- <div style="width: 100%;">
     <script type="text/javascript" src="https://www.redbubble.com/assets/external_portfolio.js"></script>
@@ -27,22 +27,25 @@ Find some of my older calligraphy art and graphic design for sale [here on Redbu
 
 <br>
 
-## Wedding Calligraphy
+# Wedding Calligraphy
 
 I write the names of your wedding guests in calligraphy, providing your friends and family with entertainment during dinner/cocktail hour, and a unique and memorable wedding favor to take home. Contact me to see availability and pricing!
 
-## Painting Contracting
+# Painting Contracting
 
 I work with [Stephen Ilardo Painting](https://www.facebook.com/sipainting/). We do residential and commercial painting. If I directed you here for painting contracting, contact me at codyilardo AT gmail DOT com\
 
-## Ex Libris 
+<!-- 
+# Ex Libris 
 
-This and other projects coming soon...
-
-<!-- ## Making All Things New
+# Making All Things New
 
 Coming soon...
 
-## His Sufferings Were Before Your Eyes
+# His Sufferings Were Before Your Eyes
 
-Coming soon... -->
+Coming soon... 
+
+# Tutoring / Logos Learning
+
+-->
