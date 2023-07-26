@@ -27,10 +27,9 @@ Find some of my older calligraphy art and graphic design for sale [here on Redbu
 
 <br>
 
-# Wedding Calligraphy
+## [Wedding Calligraphy](https://forms.gle/gSVLaxdXyrTTWgK87)
 
-I write the names of your wedding guests in calligraphy, providing your friends and family with entertainment during dinner/cocktail hour, and a unique and memorable wedding favor to take home. Contact me to see availability and pricing!
-
+I write the names of your wedding guests in calligraphy, providing your friends and family with entertainment during dinner/cocktail hour, and a unique and memorable wedding favor to take home. [Click here to get started!](https://forms.gle/gSVLaxdXyrTTWgK87)
 # Painting Contracting
 
 I work with [Stephen Ilardo Painting](https://www.facebook.com/sipainting/). We do residential and commercial painting. If I directed you here for painting contracting, contact me at codyilardo AT gmail DOT com\
