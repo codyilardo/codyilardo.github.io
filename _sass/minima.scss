@@ -18,13 +18,19 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
-$text-color:       #0A0908 !default;
-$background-color: #f8f6f6 !default;
-$brand-color:      #547AA5 !default;
+// $text-color:       #0A0908 !default;
+// $background-color: #f8f6f6 !default;
+// $brand-color:      #547AA5 !default;
 
-$grey-color:       #8b8b8b !default;
-$grey-color-light: lighten($grey-color, 40%) !default;
-$grey-color-dark:  darken($grey-color, 25%) !default;
+$text-color:       #FFEEDB !default;
+$background-color: #231F20 !default;
+$brand-color:      #61C9A8 !default;
+
+$grey-color:       $text-color !default;
+$grey-color-light: $text-color !default;
+$grey-color-dark:  $text-color !default;
+// $grey-color-light: lighten($grey-color, 10%) !default;
+// $grey-color-dark:  darken($grey-color, 10%) !default;
 
 $table-text-align: left !default;
 
