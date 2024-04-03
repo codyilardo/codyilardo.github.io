@@ -11,3 +11,8 @@ My name is Cody Ilardo. I am a disciple of Christ, who loved me and freed me fro
 ## Contact 
 
 - Email me at codyilardo AT gmail DOT com
+
+## Shop
+
+<script type="text/javascript" src="https://www.redbubble.com/assets/external_portfolio.js"></script>
+<script id="rb-xzfcxvzx" type="text/javascript">new RBExternalPortfolio('www.redbubble.com', 'ilardocallig', 3, 3).renderIframe();</script>
