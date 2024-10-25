@@ -1,10 +1,10 @@
----
+<!-- ---
 layout: default
 title: About
 ---
 # About
 
-My name is Cody Ilardo. I am a disciple of Christ, who loved me and freed me from my sins by his blood (Revelation 1:5-6). I work in software development by trade. I enjoy many good gifts from God, but some of my favorites are old books, Florida's rivers, and the wife's cooking.
+My name is Cody Ilardo. I work in software development by trade. I enjoy many good gifts from God, but some of my favorites are old books, Florida's rivers, and the wife's cooking.
 
 [You can find my writing on Substack now](https://codyilardo.substack.com/). 
 
@@ -15,4 +15,4 @@ My name is Cody Ilardo. I am a disciple of Christ, who loved me and freed me fro
 ## Shop Preview
 
 <script type="text/javascript" src="https://www.redbubble.com/assets/external_portfolio.js"></script>
-<script id="rb-xzfcxvzx" type="text/javascript">new RBExternalPortfolio('www.redbubble.com', 'ilardocallig', 3, 3).renderIframe();</script>
+<script id="rb-xzfcxvzx" type="text/javascript">new RBExternalPortfolio('www.redbubble.com', 'ilardocallig', 3, 3).renderIframe();</script> -->

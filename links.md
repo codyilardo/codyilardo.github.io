@@ -4,7 +4,9 @@ title: Links
 ---
 # Links
 
-Links page under construction. Links are not a full endorsement, use discernment. 
+Links page under construction. 
+
+<!-- Links are not a full endorsement, use discernment. 
 
 ## Resources
 
@@ -21,4 +23,4 @@ Links page under construction. Links are not a full endorsement, use discernment
 
 ## People
 
-- [https://micahbarberphotography.com/](https://micahbarberphotography.com/) A friend's excellent wildlife photography
+- [https://micahbarberphotography.com/](https://micahbarberphotography.com/) A friend's excellent wildlife photography -->
