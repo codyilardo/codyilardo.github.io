@@ -1,16 +1,10 @@
 ---
-title: About
-read_time: false
-comments: false
-share: false
-related: false
-layout: single
-# author_profile: true
+layout: default
 ---
 
-*Under construction...*
+# About 
 
-[You can find my writing on Substack now](https://codyilardo.substack.com/). 
+*Under construction...*
 
 <!-- ## Contact  -->
 

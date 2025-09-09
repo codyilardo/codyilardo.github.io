@@ -1,0 +1,23 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+// here, we should be able to add our own styles. not functional atm tho...
+
+// @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+$link-color: #2d67b8;
+
+body {
+    // font-family: "Work Sans" !important;  
+    // font: "Work Sans" !important;   
+}
+
+a {
+  color: $link-color !important;
+}
+
+a:hover, a:focus {
+    color: darken($link-color, 10) !important;
+}

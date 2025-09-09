@@ -4,7 +4,7 @@ title: Links
 ---
 # Links
 
-Links page under construction. 
+*Under construction...*
 
 <!-- Links are not a full endorsement, use discernment. 
 

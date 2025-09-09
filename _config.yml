@@ -1,24 +1,40 @@
 
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-minimal_mistakes_skin: "contrast"
+# remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+# minimal_mistakes_skin: "contrast"
+
+remote_theme: "pages-themes/minimal@v0.2.0"
+theme: jekyll-theme-minimal
+# logo: /assets/images/me.jpg
 
 title: Cody Ilardo
 name: Cody Ilardo
+author: Cody Ilardo
+description: Personal Website
 # email: cody@codyilardo.com
 
 url: https://codyilardo.github.io
 
+# Plugins (previously gems:)
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+
 # sidebar profile
-author:
-  name     : "Cody Ilardo"
-  avatar   : "/assets/images/me.jpg"
-  bio      : "Software Developer. Author of Power & Glory on Substack. Florida Native."
-  # location : "Central Florida"
-  links:
+# author:
+#   name     : "Cody Ilardo"
+#   avatar   : "/assets/images/me.jpg"
+#   bio      : "Software Developer. Author of Power & Glory on Substack. Florida Native."
+#   # location : "Central Florida"
+#   links:
     
-    - label: "Substack"
-      icon: "fas fa-fw fa-link"
-      url: "https://codyilardo.substack.com"
+#     - label: "Substack"
+#       icon: "fas fa-fw fa-link"
+#       url: "https://codyilardo.substack.com"
 
     # - label: "GitHub" 
     #   icon: "fab fa-fw fa-github"
@@ -33,57 +49,49 @@ author:
     #   url: "https://www.etsy.com/shop/IlardoCreations"
 
 # main header / burger links
-main: 
-  title: "About"
-  url: "/about"
+# main: 
+#   title: "About"
+#   url: "/about"
 
 
 
 # site footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"  
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+# footer:
+#   links:
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"  
+#       # url:
+#     - label: "Facebook"
+#       icon: "fab fa-fw fa-facebook-square"
+#       # url:
 
 
 # description: > # this means to ignore newlines until "show_excerpts:"
 #    My name is Cody Ilardo, welcome to my website.  
 
 # Outputting
-permalink: /:categories/:title/
-paginate: 10 # amount of posts to show
-paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# permalink: /:categories/:title/
+# paginate: 10 # amount of posts to show
+# paginate_path: /page:num/
+# timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-  - jekyll-remote-theme
 
 # Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: false
-      share: false
-      related: false
-      pagination:
-        enabled: false
+# defaults:
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       layout: single
+#       author_profile: true
+#       read_time: false
+#       share: false
+#       related: false
+#       pagination:
+#         enabled: false
 
-lunr:
-  search_within_pages: true
-search: true
+# lunr:
+#   search_within_pages: true
+# search: true
