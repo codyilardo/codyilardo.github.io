@@ -4,14 +4,12 @@
 @import "jekyll-theme-minimal";
 
 // here, we should be able to add our own styles. not functional atm tho...
-
-// @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wdth,wght@62.5..100,100..900&display=swap');
 
 $link-color: #2d67b8;
 
 body {
-    // font-family: "Work Sans" !important;  
-    // font: "Work Sans" !important;   
+  font-family: "Noto Sans Mono", Noto Sans, monospace;
 }
 
 a {
