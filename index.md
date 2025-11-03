@@ -4,7 +4,7 @@ layout: default
 
 # Power & Glory
 
-You can find my writing on Substack now. I write a blog called [*Power & Glory*](https://codyilardo.substack.com/). I publish a few articles a month on biblical theology, literature, and church history.
+You can find my writing on Substack. I write a blog called [*Power & Glory*](https://codyilardo.substack.com/). I publish a few articles a month.
 
 <!-- <iframe src="https://codyilardo.substack.com/embed" width="100%" height="300" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe> -->
 
